@@ -1,0 +1,4 @@
+# Project: Greeting program
+name = input(" Enter your name : ")
+age = input (" Enter your age : ")
+print(f'Hallo {name} willkomen zu Python , du bist {age} Jahre alt ')
